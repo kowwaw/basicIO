@@ -7,7 +7,7 @@ Hai số nguyên dương lần lượt tượng trưng cho điểm đại số, 
 #### Dữ liệu ra:
 Hai dòng duy nhất hiển thị kết quả như ví dụ dưới đây:
 #### Input
-> 2 3
+> 2 3sddssd
 #### Output
 > Diem thi cuoi ki mon dai so cua ban la 2\
 > Diem thi cuoi ki mon giai tich cua ban la 3
